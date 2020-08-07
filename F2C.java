@@ -11,16 +11,14 @@ public class F2C {
 		
         //Prompt for fahrenheit user input
         Scanner in = new Scanner(System.in);
-		System.out.print("Temperature in Fahrenheit:");
+	System.out.print("Temperature in Fahrenheit:");
 		
         //Fahrenheit to celsius conversion
         fahrenheit = in.nextInt();
-		celsius = (fahrenheit-32)*5/9;
+	celsius = (fahrenheit-32)*5/9;
 		
         //Output to celsius
         System.out.println("Temperature in Celsius:"+celsius);
               
-    }
-    
-    
+    }    
 }
