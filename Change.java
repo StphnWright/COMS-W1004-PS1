@@ -72,7 +72,5 @@ public class Change {
         System.out.println("Nickels: " + nickels);
         System.out.println("Pennies: " + pennies);
         
-    }
-    
-    
+    }    
 }
