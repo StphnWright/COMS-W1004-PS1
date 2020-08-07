@@ -28,7 +28,5 @@ public class Minutes {
         int numYearMinutes = years*525600;
         System.out.println("You have been alive for " + numYearMinutes + " minutes and counting...");
         
-    }
-    
-    
+    }    
 }
